@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="CS2004_007_Graph_Traversal_MST/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="CS2004_007_Graph_Traversal_MST/src"/>
+	<classpathentry kind="output" path="CS2004_007_Graph_Traversal_MST/bin"/>
+</classpath>
